@@ -39,13 +39,13 @@ was not passed. Although I can appreciate the concern for maintaining an objecti
 to by governments around the world has strong measures in place to ensure the documents it produces are not easily swayed by one singular opinion or interest and has several checks
 and balances in place to remain objective.
 
-## **Reference**
+## **References**
 
 Everett, J.T., 2020. What are the views of the IPCC Process by the Skeptics? [WWW Document]. Global Climate Change Facts. URL http://www.climatechangefacts.info/ (accessed 2.14.21).
 
 Everett, J.T., 2011. John Everett [WWW Document]. URL http://www.oceanassoc.com/Bio_Dr_John_T_Everett_Resume_All/ (accessed 2.14.21).
 
-IPCC, 2020. About the IPCC. URL https://www.ipcc.ch/about/ (accessed 2.14.21).
+IPCC, 2020. About the IPCC.[WWW Document]. URL https://www.ipcc.ch/about/ (accessed 2.14.21).
 
 Various Contributors, 2018. John Everett [WWW Document]. RationalWiki. URL https://rationalwiki.org/w/index.php?title=John_Everett&action=info
 
