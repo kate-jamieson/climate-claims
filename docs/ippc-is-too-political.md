@@ -3,7 +3,7 @@ title: Climate Claims
 layout: default
 nav_order: 1
 ---
-#**Is the IPCC Too Political?**
+# **Is the IPCC Too Political?**
 
 **Kate Jamieson**
 
@@ -39,7 +39,7 @@ was not passed. Although I can appreciate the concern for maintaining an objecti
 to by governments around the world has strong measures in place to ensure the documents it produces are not easily swayed by one singular opinion or interest and has several checks
 and balances in place to remain objective.
 
-##**Reference**
+## **Reference**
 
 Everett, J.T., 2020. What are the views of the IPCC Process by the Skeptics? [WWW Document]. Global Climate Change Facts. URL http://www.climatechangefacts.info/ (accessed 2.14.21).
 
